@@ -1,6 +1,0 @@
-/local/src/open-coroco/src_stiffness_controller/F4/interrupts.c (interrupts)
-/home/juan/local/src/open-coroco/src/IO - STM32F4Discovery.ods (para ver que pines sirven)
-
-
-
---->Problemas para compilar con el makefile, Nada diferente con el virtual.
